@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "climate-river-coastal-ml: Climate-Driven River-Coastal Connectivity Across Puerto Rico"
+type: software
+authors:
+  - family-names: Luitel
+    given-names: Somnath
+    affiliation: "AI Research Lab, Department of Earth, Environmental, and Atmospheric Sciences, Western Kentucky University"
+    orcid: "https://orcid.org/0009-0009-8669-4245"
+  - family-names: Singh
+    given-names: Manmeet
+    affiliation: "AI Research Lab, Department of Earth, Environmental, and Atmospheric Sciences, Western Kentucky University"
+    orcid: "https://orcid.org/0000-0002-3374-7149"
+license: MIT
+repository-code: "https://github.com/shreesomnath/climate-river-coastal-ml"

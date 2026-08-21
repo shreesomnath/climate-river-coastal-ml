@@ -1,0 +1,15 @@
+watershed,box,n_months,best_r,best_lag
+manati,near_mouth,170,0.344,0
+manati,offshore,170,0.465,0
+plata,near_mouth,170,0.223,0
+plata,offshore,170,0.33,0
+fajardo,near_mouth,170,0.139,3
+fajardo,offshore,170,0.16,0
+anasco,near_mouth,165,0.229,0
+anasco,offshore,165,0.29,0
+patillas,near_mouth,164,-0.062,2
+patillas,offshore,170,0.157,0
+culebrinas,near_mouth,160,0.341,0
+culebrinas,offshore,161,0.329,0
+guanajibo,near_mouth,169,0.21,1
+guanajibo,offshore,170,-0.132,2

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Raw fetched data (large, fully reproducible via scripts/01-*, scripts/15-16-*, etc.)
+# Re-running the pipeline regenerates everything under data/raw from public APIs.
+data/raw/
+
+# LaTeX build artifacts
+manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.log
+manuscript/*.out
+manuscript/*.spl
+manuscript/*.toc
+manuscript/*.fls
+manuscript/*.fdb_latexmk
+manuscript/*.synctex.gz
+manuscript/compile_log*.txt
+manuscript/bibtex_log.txt
+
+# Copyrighted third-party reference PDF (not ours to redistribute)
+manuscript/1-s2.0-*.pdf

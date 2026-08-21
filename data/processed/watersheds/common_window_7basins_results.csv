@@ -1,0 +1,8 @@
+watershed,n,n_test,status,NSE_climatology,NSE_ElasticNet,NSE_RandomForest
+loiza,166,34,OK,-0.343,0.23,0.167
+manati,178,36,OK,-0.406,0.589,0.221
+fajardo,276,56,OK,-0.199,0.475,0.39
+anasco,169,34,OK,-0.145,0.108,0.025
+patillas,65,13,OK,-0.229,0.423,0.284
+culebrinas,169,34,OK,-0.02,0.093,-0.081
+guanajibo,252,51,OK,-0.334,0.302,0.127

@@ -1,0 +1,9 @@
+basin,drainage_area_mi2,mean_discharge_cfs,shelf_dist_km_to_neg20m,stage_b_NSE,verdict
+manati,134.0,257.9,1.41,0.146,Promising
+patillas,18.3,60.8,3.15,0.096,Weak/mixed
+anasco,134.0,370.0,1.5,0.063,Weak/mixed
+plata,208.0,280.4,1.02,0.03,Null
+loiza,89.8,224.9,2.49,0.029,Promising
+culebrinas,71.2,292.1,0.72,-0.059,Null
+guanajibo,120.0,202.0,4.88,-0.174,Null
+fajardo,14.9,66.0,4.76,,Untestable
